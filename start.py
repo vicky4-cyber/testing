@@ -9,3 +9,5 @@ print("bye")
 print("thala dhoni")
 print("ashwin")
 print("csk")
+
+print("magilchi...")
